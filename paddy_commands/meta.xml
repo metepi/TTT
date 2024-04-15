@@ -1,0 +1,5 @@
+<meta>
+     <info author="YourName" type="gamemode" name="My Server" description="My first MTA server" />
+     <script src="peds.lua" type="server" />
+     <script src="car.lua" type="server" />
+</meta>
